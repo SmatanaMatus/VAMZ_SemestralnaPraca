@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">FoodSync</string>
+
+    <string name="login">Prihlásenie</string>
+    <string name="enter_email">Zadajte svoj email</string>
+    <string name="enter_password">Zadajte heslo</string>
+    <string name="login_button">Prihlásiť sa</string>
+    <string name="registration_button">Registrácia</string>
+    <string name="dialog_empty_fields">Nevyplnili ste niektoré z polí</string>
+    <string name="dialog_login_success">Úspešne prihlásený!</string>
+    <string name="dialog_login_failed">Prihlásenie zlyhalo: %1$s</string>
+
+    <string name="registration_title">Registrácia</string>
+    <string name="label_email">Email:</string>
+    <string name="label_password">Heslo:</string>
+    <string name="label_repeat_password">Ešte raz:</string>
+    <string name="cancel_button">Zrušiť</string>
+    <string name="register_button">Registrovať</string>
+    <string name="error_password_mismatch">Heslá musia byť zhodné!</string>
+    <string name="error_empty_fields">Nevyplnili ste niektoré z polí</string>
+    <string name="success_registration">Ste úspešne zaregistrovaný!</string>
+    <string name="error_database">Chyba pri ukladaní do databázy: %1$s</string>
+    <string name="error_registration_failed">Registrácia zlyhala: %1$s</string>
+
+    <string name="alert_title">Upozornenie</string>
+    <string name="ok_button">OK</string>
+
+    <string name="screen_login">login</string>
+    <string name="screen_registration">registration</string>
+    <string name="screen_home">home</string>
+    <string name="screen_favorites">favorites</string>
+    <string name="screen_fridge">fridge</string>
+    <string name="screen_recipes">recipes</string>
+    <string name="screen_recipe">recipe/{recipeId}</string>
+
+
 </resources>
