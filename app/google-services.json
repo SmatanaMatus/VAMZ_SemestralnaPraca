@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865209858991",
+    "project_id": "foodsync-9f154",
+    "storage_bucket": "foodsync-9f154.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865209858991:android:7344809940b9935cac4d5a",
+        "android_client_info": {
+          "package_name": "com.example.foodsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC91MkTen_s23V8uLI_3OoYUVNf3sULOlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
